@@ -5,6 +5,7 @@ http://www.mediawise.org.uk/wp-content/uploads/2011/03/Los-Medios-de-Communicaci
 - influence of media on suicide and self-steem https://www.sciencedirect.com/science/article/abs/pii/S1471015312000657
 - main rate age watching love island
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8022790/
+- https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/suicidesintheunitedkingdom/2021registrations
 - Exists correlation between Love Island and suicidal attempts?
 
 ## Methods

@@ -20,7 +20,7 @@
    In order to analyse if there's a cause-effect relation in between this TV show and the increase of the suicidal attemps we collected data through kaggle.com from the WHO about the suicidal registration in between 2005 to 2019.
    
    Because the TV program it was produced in the United Kingdom, the main filter applied was to collect the data on those years from UK. After more clearance of columns and null values, we ended it up with the following columns : 
-![column_1]("/data_frame_uk.png")
+![column_1](/pics/data_frame_uk.png)
    
    On the other side, to be able to check the cause/effect of our hypothesis, It's been done some webscrapping from their producers website to get a new dataframe with the episodes, years, season and months. The idea to relate both data frames is to see if,as more episodes are produced, more suicidal attemps happened.
    

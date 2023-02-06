@@ -26,4 +26,18 @@
    
    
 ## Results
-- Rates trend
+As a result of the research we can observe in general a tendency to increase the number of suicides in the United Kingdom. More specific to the range of ages mentioned before it's been a steady increse of numbers until 2017 were the inclination got increase.
+
+![suicide no by ages](/pics/age_suic.jpg)
+
+We can relate this increase with the increase of number of episodes of Love Island as seen below; during 2015 there were produced around 35 episodes, while, in 2019 it increased to around 58.
+
+![love island episodes](/pics/epis_years.jpg)
+
+Finally, when we put all the results together we found relevant info: the first one is the peak of suicide numbers in 2018 matching with the highest amount of episodes produced; on the other side, we can see in 2019 with the same amount of episodes, the numbers reduce to half.
+
+![suicide vs episodes](/pics/su_ep.jpg)
+
+## Conclusions
+
+After analysing the data available, we could find somehow of relation in between the increase of episodes of Love Island with the increase of number of suicides, instead, we found results which contradics this hypothesis, so, it brings us to the point where makes us think if the number of suicide decreased in 2019 as a resilience ability in between this population or, simply, there's no correlation.

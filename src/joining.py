@@ -26,12 +26,7 @@ def year_suic_season(df_join):
     sns.lineplot(data = df_join['suicides_no'], marker='o', sort = False, ax=ax1)
     ax2 = ax1.twinx()
     sns.barplot(data = df_join, x='year', y='Episode', alpha=0.5, ax=ax2)
-    def fxn():
-        warnings.warn("deprecated", DeprecationWarning)
-
-        with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        fxn()
+    plt.title('Suicides no. vs. Episodes through the years')
     return fig
 
 
